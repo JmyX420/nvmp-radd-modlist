@@ -1,0 +1,23 @@
+1.0.5
+-updated client version
+-updated server content
+-added OneTweakbutReallyUpdated
+-shortened post setup tool wait from 5 to 3 seconds
+
+1.0.4
+-updated server content
+-added winter event content
+
+1.0.3
+-updated server content
+
+1.0.2
+-removed drive letter dependency from NVMP Launcher and 4GB Patcher filepaths. 
+-added 4GB Patcher to executables dropdown
+-server mods are now packaged into one archive rather than 10 individual archives. 
+
+1.0.1
+-updated server content
+
+1.0.0
+-initial release 
