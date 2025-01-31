@@ -1,5 +1,5 @@
 1.0.6
--updated servercontent
+-updated server content
 
 1.0.5
 -updated client version
