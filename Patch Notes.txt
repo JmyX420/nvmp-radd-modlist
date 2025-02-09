@@ -1,3 +1,7 @@
+1.0.8
+-updated server content
+-added .ini's to Root Builder exclusion list to prevent settings rollback
+
 1.0.7
 -Fixed issue causing MO2 to delete base game .exe
 
