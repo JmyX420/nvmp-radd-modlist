@@ -2,7 +2,7 @@
 -updated server content
 -added Combat Lag Fix mod
 -added ActorCause Save Bloat mod
--moved nvse utiliy mods under new 'Utilities' header
+-moved nvse utiliy mods under new 'Utilities' header (housekeeping)
 -reorganized utility and UI mods into alphabetic order (housekeeping)
 -added nvmp.nvse.package to Root Builder exclusions list
 -added nvmp.nvtf.package to Root Builder exclusions list
