@@ -1,4 +1,5 @@
 1.0.9
+-updated client version
 -updated server content
 -added Combat Lag Fix mod
 -added ActorCause Save Bloat mod
