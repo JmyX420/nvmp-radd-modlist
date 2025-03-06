@@ -1,3 +1,9 @@
+2.0.0
+-complete rebuild release
+-switched from Mod Organizer 2.5.2 to 2.5.2-ML1.5 Modding Linked fork.
+-removed Kezyma's Post Setup Tool and Plugin (no longer needed)
+-removed Kezyma's Profile Sync (functionality issues)
+-removed LOOT Preventifier (no longer needed)
 1.0.9
 -updated client version
 -updated server content
