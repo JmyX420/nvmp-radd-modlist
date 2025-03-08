@@ -1,3 +1,6 @@
+2.0.1
+-Virtual Explorer pathway hotfix
+
 2.0.0
 -complete rebuild release
 -switched from Mod Organizer 2.5.2 to 2.5.2-ML1.5 Modding Linked fork.
