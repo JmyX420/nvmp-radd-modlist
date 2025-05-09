@@ -1,3 +1,8 @@
+2.1.6
+-updated client version
+-updated server content
+-coop profile still not being added dute to apparent wabbajack bug
+
 2.1.5
 -updated client version
 -updated server content
