@@ -1,3 +1,9 @@
+3.0.0
+-new build utilizing the stock game folder feature; the modlist will now create a copy of new vegas inside the mod organizer 2 folder. This should fix the issue with users linking epic accts.
+-updated client version
+-updated server content
+-minor textual cleanups
+
 2.1.6
 -updated client version
 -updated server content
@@ -78,3 +84,4 @@
 
 1.0.0
 -initial release 
+
