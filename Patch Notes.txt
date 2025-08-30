@@ -9,6 +9,13 @@
 -updated server content
 -minor textual cleanups
 
+3.0.0 [CANCELLED]
+-updated client version
+-updated server content
+-minor textual cleanups
+-utilization of wabbajack's stock game folder feature to fix epic link issues
+[This build was scrapped for causing more problems than it solved. GOG version became incompatible and installscript.vdf uppercase/lowercase issue]
+
 2.1.6
 -updated client version
 -updated server content
@@ -89,6 +96,7 @@
 
 1.0.0
 -initial release 
+
 
 
 
