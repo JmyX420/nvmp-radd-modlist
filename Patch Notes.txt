@@ -1,3 +1,9 @@
+2.1.8
+-updated client version
+-updated server content
+-reverted Root Builder to link mode from copy mode to prevent/reduce files being left behind in game folder after a clear
+-set 'Use application's icon for desktop shortcuts' active by default
+
 2.1.7
 -updated client version
 -updated server content
@@ -83,5 +89,6 @@
 
 1.0.0
 -initial release 
+
 
 
