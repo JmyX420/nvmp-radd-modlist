@@ -1,3 +1,9 @@
+2.1.9
+-updated client version
+-updated server content
+-updated terminology from RADD to ATK
+-added DXVK 2.1.6
+
 2.1.8
 -updated client version
 -updated server content
@@ -96,6 +102,7 @@
 
 1.0.0
 -initial release 
+
 
 
 
