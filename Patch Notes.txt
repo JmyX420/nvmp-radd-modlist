@@ -1,3 +1,8 @@
+2.1.10
+-updated server content
+-added https://www.nexusmods.com/newvegas/mods/83245
+-added https://www.nexusmods.com/newvegas/mods/78433
+
 2.1.9
 -updated client version
 -updated server content
@@ -102,6 +107,7 @@
 
 1.0.0
 -initial release 
+
 
 
 
