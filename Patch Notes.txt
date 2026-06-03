@@ -1,5 +1,6 @@
 2.2
 -forgot patch notes on release whoops
+-updated to new client 9.0
 -updated server content
 -added motorcycle cosmetic options made from several mods;
 https://www.nexusmods.com/newvegas/mods/61178
