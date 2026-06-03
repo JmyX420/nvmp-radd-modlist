@@ -1,3 +1,26 @@
+2.2
+-forgot patch notes on release whoops
+-updated server content
+-added motorcycle cosmetic options made from several mods;
+https://www.nexusmods.com/newvegas/mods/61178
+https://www.nexusmods.com/newvegas/mods/43894
+https://www.nexusmods.com/newvegas/mods/60926
+https://www.nexusmods.com/newvegas/mods/97254
+https://www.nexusmods.com/newvegas/mods/48505
+-upgraded DXVK to 2.5.1
+-added https://www.nexusmods.com/newvegas/mods/80316
+-added https://www.nexusmods.com/newvegas/mods/91241
+-added https://www.nexusmods.com/newvegas/mods/81200
+-added https://www.nexusmods.com/newvegas/mods/55334
+-added https://www.nexusmods.com/newvegas/mods/79516
+-added https://www.nexusmods.com/newvegas/mods/91705
+-added https://www.nexusmods.com/newvegas/mods/81201
+-added https://www.nexusmods.com/newvegas/mods/87814
+-added https://www.nexusmods.com/newvegas/mods/84781
+-added https://www.nexusmods.com/newvegas/mods/84443
+-added https://www.nexusmods.com/newvegas/mods/85267
+-added https://www.nexusmods.com/newvegas/mods/85198
+
 2.1.10
 -updated server content
 -added https://www.nexusmods.com/newvegas/mods/83245
